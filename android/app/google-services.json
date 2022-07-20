@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "465618366271",
+    "project_id": "shift-autos",
+    "storage_bucket": "shift-autos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465618366271:android:6472067545b27b84512d8a",
+        "android_client_info": {
+          "package_name": "com.cars.shift_autos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465618366271-j8koaj668rtjuri51dsun5skukb0pav5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpNdmfaHDK2TXp9Wrpz5OzgLl7zmTN6jU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465618366271-j8koaj668rtjuri51dsun5skukb0pav5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
